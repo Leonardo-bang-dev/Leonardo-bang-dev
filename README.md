@@ -7,3 +7,7 @@
 <div style="display: inline-block">
   <img aling='center' alt='Leo-Js' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <div/>
+
+<div>
+  <a>https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white<a/>
+<div/>

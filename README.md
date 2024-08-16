@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Leonardo 👋
 
-- 🌱 Atualmente estou estudando Python e banco de dados SQL e NoSQL
+- 🌱 Atualmente estou estudando Golang <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - 📫 leonardobang.oficial@gmail.com
 <br>
 <hr>

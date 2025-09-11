@@ -1,7 +1,6 @@
 ### Ola! Eu sou o Leonardo 👋
 
-- 🌱 Atualmente estou estudando Golang <img aling='down' alt='Leo-Go' width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-- 📫 leonardobang.oficial@gmail.com
+- 📫 leonardobang123carvalho@gmail.com
 <br>
 <hr>
 <div style="display: inline-block">
